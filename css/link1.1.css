@@ -1,0 +1,50 @@
+.whole{
+  background-color: aquamarine;
+  background-image:url("golf.jpg");
+  align-content: center;
+  text-indent: 1.5%
+}
+#head1{
+  font-size: 70px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  text-decoration: underline;
+}
+#head2{
+  text-transform: uppercase;
+  font-size: 50px;
+  text-decoration: underline;
+}
+#image{
+  height: 250px;
+  width: 250px;
+}
+.para1{
+  font-size: 18px;
+  text-transform: capitalize;
+}
+#edu{
+  font-style: italic;
+  font-size: 25px;
+  text-decoration: underline;
+  font-weight: bold;
+}
+#button{
+  font-size: 24px;
+  background-color: green;
+  text-transform: capitalize;
+}
+#list{
+font-weight: bold;
+}
+.footer{
+background-color: slategray;
+font-size: 20px;
+}
+.footer.first{
+  
+  float: left;
+}
+.footer.second{
+float: right;
+}

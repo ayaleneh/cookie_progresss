@@ -1,0 +1,36 @@
+body{
+  background-color: tomato
+}
+#image1{
+  width: 100px;
+  height: 100px;
+}
+h2{
+  float: right;
+}
+#section1{
+  display: inline-block;
+}
+table{
+  border: 10px black;
+  font-family: 'Permanent Marker', cursive;
+}
+tbody tr:nth-child(odd) {
+  background-color: #ff33cc;
+}
+
+tbody tr:nth-child(even) {
+  background-color: #e495e4;
+}
+
+tbody tr {
+  background-color: cadetblue;
+}
+
+table {
+  background-color: #ff33cc;
+}
+#field{
+  background-color: slategrey;
+  width: 45%
+}
